@@ -1,1 +1,13 @@
+{
+  "name": "color-palette-helper",
+  "version": "1.0.0",
+  "description": "A simple utility to generate and manipulate color palettes for frontend projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "keywords": ["color", "palette", "frontend", "beginner"],
+  "author": "Your Name",
+  "license": "MIT"
+}
 
